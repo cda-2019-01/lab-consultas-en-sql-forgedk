@@ -4,3 +4,4 @@
 ## 2018
 ##
 
+Select strftime('%Y',c14) as YEAR,Count(*) as CANT  from tbl1 WHERE strftime('%Y',c14) == "2018"

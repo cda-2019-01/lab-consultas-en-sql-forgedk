@@ -3,4 +3,4 @@
 ## de la tabla tbl1
 ## 
 
-
+select COUNT(*) from tbl1;

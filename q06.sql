@@ -4,4 +4,4 @@
 ## registros con K0 igual a A
 ## 
 
-
+Select * from tbl1 WHERE K0 == 'A' ORDER BY c14

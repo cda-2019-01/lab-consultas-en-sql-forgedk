@@ -4,4 +4,4 @@
 ## con la columna ## c02 mayor o igual a 300.
 ##
 
-
+Select * from tbl0 WHERE c02 >= 300

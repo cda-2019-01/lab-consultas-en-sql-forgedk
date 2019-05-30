@@ -4,3 +4,4 @@
 ## o igual a 600
 ## 
 
+Select * from tbl0 WHERE c02 == 100 or c02 == 600

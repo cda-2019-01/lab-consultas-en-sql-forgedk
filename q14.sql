@@ -5,4 +5,4 @@
 ## a 400.
 ##
 
-
+Select K0,avg(c12) from tbl1   WHERE c13 > 400 GROUP BY K0

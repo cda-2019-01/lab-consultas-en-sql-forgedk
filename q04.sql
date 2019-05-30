@@ -4,4 +4,5 @@
 ## columna c16 empieza por la misma letra de la columna K0
 ## 
 
+Select K0,c16 from tbl1 WHERE K0 == substr(c16, 1, 1)
 
